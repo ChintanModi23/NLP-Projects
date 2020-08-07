@@ -1,0 +1,17 @@
+NLP with Python for Machine Learning:
+
+NLTK
+Scikit Learn
+Python
+
+step by step developed model to filter spam or ham emails
+
+Reading text data
+exploring dataset
+data cleaning (stemming and Lemmatizing)
+Tokenization
+Vecotorizing (Count Vectorizer, N-gram and TF-IDF)
+Feature Engineering(Feature Creation, Feature Evaluation, Identifying the feature for Transformation, used Box Cox Power Transformation)
+Building Machine Learning Classifiers(Ramdom Forest and Gradient Boosting, Cross-Validation metrics, )
+
+Filtererd Email 97% accuracy
